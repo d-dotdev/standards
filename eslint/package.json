@@ -1,0 +1,17 @@
+{
+  "name": "@dreisss/eslint-config",
+  "version": "1.0.0",
+  "private": "false",
+  "description": "My standard config to eslint config.",
+  "license": "MIT",
+  "repository": {
+    "url": "dreisss/standard-configs/eslint"
+  },
+  "main": "src/index.js",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "@dreisss/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My standard config to eslint config.",
   "author": "Davi Reis <dreisss.dev@gmail.com>",
   "license": "MIT",

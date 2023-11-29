@@ -1,3 +1,3 @@
-# Standard Configs
+# Standard
 
-My standard config to common tools.
+Some standard configs, templates and more to common tools.

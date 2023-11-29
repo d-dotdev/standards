@@ -1,17 +1,20 @@
 {
   "name": "@dreisss/eslint-config",
   "version": "1.0.0",
-  "private": "false",
   "description": "My standard config to eslint config.",
   "author": "Davi Reis <dreisss.dev@gmail.com>",
   "license": "MIT",
   "homepage": "htps://github.com/dreisss/standard-configs/eslint",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dreisss/standard-configs",
+    "url": "git+https://github.com/dreisss/standard-configs.git",
     "directory": "eslint"
   },
   "keywords": ["eslint-config", "eslint"],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "main": "src/index.js",
   "devDependencies": {
     "bun-types": "latest"

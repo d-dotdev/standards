@@ -3,15 +3,35 @@
   "version": "1.0.0",
   "private": "false",
   "description": "My standard config to eslint config.",
+  "author": "Davi Reis <dreisss.dev@gmail.com>",
   "license": "MIT",
+  "homepage": "htps://github.com/dreisss/standard-configs/eslint",
   "repository": {
-    "url": "dreisss/standard-configs/eslint"
+    "type": "git",
+    "url": "https://github.com/dreisss/standard-configs",
+    "directory": "eslint"
   },
+  "keywords": ["eslint-config", "eslint"],
   "main": "src/index.js",
   "devDependencies": {
     "bun-types": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "eslint": "^8.0.0",
+    "prettier": ">= 3.00"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": "true"
+    }
+  },
+  "dependencies": {
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.1.0"
   }
 }

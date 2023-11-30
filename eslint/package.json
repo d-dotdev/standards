@@ -1,13 +1,13 @@
 {
-  "name": "@dreisss/eslint-config",
-  "version": "1.0.1",
-  "description": "My standard config to eslint config.",
-  "author": "Davi Reis <dreisss.dev@gmail.com>",
+  "name": "@d-dotdev/eslint-config",
+  "version": "1.0.0",
+  "description": "d.dev standard config to eslint.",
+  "author": "d.dev <dreisss.dev@gmail.com>",
   "license": "MIT",
-  "homepage": "htps://github.com/dreisss/standard-configs/eslint",
+  "homepage": "htps://github.com/d-dotdev/standards/eslint",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dreisss/standard-configs.git",
+    "url": "git+https://github.com/d-dotdev/standards.git",
     "directory": "eslint"
   },
   "keywords": ["eslint-config", "eslint"],

@@ -1,4 +1,4 @@
-# @dreisss/eslint-config
+# @d-dotdev/eslint-config
 
 My standard config to eslint config.
 
@@ -9,13 +9,13 @@ My standard config to eslint config.
 - Install eslint and this config:
 
 ```
-npm i -D eslint @dreisss/eslint-config
+npm i -D eslint @d-dotdev/eslint-config
 ```
 
 - Add this config to eslint modifying the `.eslintrc.json` file:
 
 ```json
 {
-  "extends": ["@dreisss/eslint-config"]
+  "extends": ["@d-dotdev/eslint-config"]
 }
 ```

@@ -6,10 +6,10 @@ My standard config to eslint config.
 
 ### Default
 
-- Install eslint and this config:
+- Install this config in your project:
 
 ```
-npm i -D eslint @d-dotdev/eslint-config
+npm i -D @d-dotdev/eslint-config
 ```
 
 - Add this config to eslint modifying the `.eslintrc.json` file:
